@@ -59,8 +59,11 @@ I am a **Backend-focused Software Engineer** dedicated to engineering high-perfo
 ---
 
 ### 📈 GitHub Analytics
-
 <div align="center">
+
+  <br/>
+  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <br/>
   <img width="100%" src="https://streak-stats.demolab.com/?user=saurav-sirsat&theme=tokyonight&hide_border=true" />
   <br/>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurav-sirsat&theme=tokyo-night&hide_border=true&area=true" />
