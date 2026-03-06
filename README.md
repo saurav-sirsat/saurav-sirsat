@@ -1,84 +1,130 @@
+<!-- HEADER -->
 <h1 align="center">Hi 👋 I'm Saurav Sirsat</h1>
 
-<h3 align="center">Backend Developer | Java • Spring Boot • Scalable SaaS Systems</h3>
+<h3 align="center">
+Backend Developer • Java • Spring Boot • Scalable SaaS Systems
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+Spring+Boot+Developer;Building+Scalable+SaaS+Products;REST+API+Architect;System+Design+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3200&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Scalable+SaaS+Platforms;REST+API+Architecture;System+Design+Enthusiast"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=saurav-sirsat&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
 # 💫 About Me
 
-Backend-focused developer passionate about building scalable software systems and SaaS products.
+I am a **backend-focused software developer** passionate about building **scalable software systems and real-world SaaS products**.
 
-I mainly work with Java, Spring Boot, and REST APIs. I enjoy designing backend architectures that are secure, maintainable, and capable of handling real production workloads.
+My primary stack revolves around **Java, Spring Boot, REST APIs, and SQL databases**, where I focus on designing **secure, maintainable, and production-ready backend architectures**.
 
-One of my key projects is **Apna POS**, a multi-tenant POS SaaS platform designed for retail businesses. The platform focuses on strong backend architecture, authentication, optimized APIs, and scalable database design.
+One of my major projects is **Apna POS**, a **multi-tenant POS SaaS platform** designed for retail businesses. The system focuses on scalable backend design, authentication, optimized APIs, and real operational workflows.
+
+I enjoy solving engineering challenges related to **performance, scalability, and backend architecture**, while continuously learning about **modern distributed systems and system design**.
 
 ---
 
-# 🚀 What I'm Working On
+# 🚀 Current Work
 
-• Improving my Apna POS SaaS platform  
-• Building scalable backend systems with Spring Boot  
-• Designing better API architecture  
-• Learning advanced system design concepts  
+• Building and expanding the **Apna POS SaaS Platform**  
+• Designing scalable backend services using **Spring Boot**  
+• Improving **API architecture and database performance**  
+• Practicing **system design for large-scale applications**
+
+---
+
+# 🤝 Open to Collaborate
+
+• Backend-heavy **open source projects**  
+• **Startup / SaaS platforms**  
+• **Java + Spring Boot applications**
 
 ---
 
 # 🌱 Currently Learning
 
-• Advanced Spring Security  
-• Microservices Architecture  
-• Apache Kafka  
-• Cloud Deployment (Azure)  
-• System Design for large-scale systems  
+• Advanced **Spring Security**  
+• **Microservices Architecture**  
+• **Apache Kafka** event-driven systems  
+• **Cloud deployment with Azure**  
+• **Large-scale system design**
 
 ---
 
 # 💬 Ask Me About
 
 • Java Backend Development  
-• Spring Boot and REST APIs  
-• JWT Authentication  
-• SaaS Architecture  
-• Backend System Design  
+• Spring Boot Architecture  
+• REST API Design  
+• JWT Authentication Systems  
+• SaaS Platform Architecture  
+• Backend System Design
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building **real-world products rather than demo projects.**
+
+My **Apna POS SaaS platform already includes**
+
+• 60+ REST APIs  
+• JWT authentication  
+• Multi-tenant architecture  
+• Payment integration  
+• Scalable backend structure
 
 ---
 
 # 🌐 Connect With Me
 
+<p align="center">
+
 <a href="https://www.linkedin.com/in/saurav-sirsat-136848227">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:saurav.sirsat@outlook.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,redis,postgres,docker,azure,kafka,git,github,html,css,tailwind,postman,figma"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,postgres,redis,docker,kafka,azure,git,github,html,css,tailwind,postman,figma"/>
+
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saurav-sirsat&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saurav-sirsat&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-sirsat&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=saurav-sirsat&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com/?user=saurav-sirsat&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-sirsat&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurav-sirsat&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -90,9 +136,3 @@ One of my key projects is **Apna POS**, a multi-tenant POS SaaS platform designe
 </p>
 
 ---
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=saurav-sirsat&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
