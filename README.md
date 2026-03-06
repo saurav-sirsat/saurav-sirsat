@@ -1,19 +1,27 @@
-<!-- 
+<!--
   Modern Premium GitHub Profile README
   Designed for Saurav Sirsat - Java Backend Developer
 -->
 
 <div align="center">
-  <h1>🚀 SAURAV SIRSAT 🚀</h1>
+  <h1>✨ SAURAV SIRSAT ✨</h1>
+  <p><b>Backend Architect | Java & Spring Boot Expert | SaaS Builder</b></p>
   
-
-
   <p align="center">
     <a href="https://www.linkedin.com/in/saurav-sirsat-136848227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:saurav.sirsat@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <img src="https://komarev.com/ghpvc/?username=saurav-sirsat&label=PROFILE%20VIEWS&color=79D1FF&style=for-the-badge" />
   </p>
 </div>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saurav-sirsat&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="GitHub Trophies" />
+</div>
+
 
 ---
 
@@ -58,9 +66,8 @@ I am a **Backend-focused Software Engineer** dedicated to engineering high-perfo
 ---
 
 ### 📈 GitHub Analytics
+
 <div align="center">
-
-
   <img width="100%" src="https://streak-stats.demolab.com/?user=saurav-sirsat&theme=tokyonight&hide_border=true" />
   <br/>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurav-sirsat&theme=tokyo-night&hide_border=true&area=true" />
