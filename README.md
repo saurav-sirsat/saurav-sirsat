@@ -1,92 +1,40 @@
-<!--
-  Modern Premium GitHub Profile README
-  Designed for Saurav Sirsat - Java Backend Developer
--->
+# Saurav Sirsat
 
-<div align="center">
-  <h1>✨ SAURAV SIRSAT ✨</h1>
-  <p><b>Backend Architect | Java & Spring Boot Expert | SaaS Builder</b></p>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/saurav-sirsat-136848227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:saurav.sirsat@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=saurav-sirsat&label=PROFILE%20VIEWS&color=79D1FF&style=for-the-badge" />
-  </p>
-</div>
+**Software Engineer | Specializing in Backend Systems & SaaS Architecture**
+
+I’m a developer who enjoys the complexity of building robust backends and the elegance of well-structured APIs. My work is primarily focused on **Java** and the **Spring Ecosystem**, where I spend my time thinking about scalability, security, and how to make multi-tenant systems feel seamless.
+
+[LinkedIn](https://www.linkedin.com/in/saurav-sirsat-136848227) • [Email](mailto:saurav.sirsat@outlook.com)
 
 ---
 
-### 🏆 Achievements
+### 🛠 What I’m working on
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurav-sirsat&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="GitHub Trophies" />
-</div>
+Currently, most of my engineering energy goes into **[Apna POS](https://github.com/saurav-sirsat/Apna-Pos)**. It’s not just a demo project; it’s a full-scale multi-tenant SaaS platform where I’ve had to solve real-world problems like:
+- Implementing granular **RBAC** for enterprise hierarchies.
+- Designing a **multi-tenant database architecture** that scales.
+- Architecting **60+ endpoints** to handle complex inventory and retail workflows.
 
-
----
-
-### 📖 About Me
-
-I am a **Backend-focused Software Engineer** dedicated to engineering high-performance, scalable systems. My expertise lies in designing robust **microservices architectures** and building **SaaS platforms** that solve real-world complexities.
-
-- 🛠️ Currently focusing on **Advanced Spring Security** & **Distributed Systems**.
-- 🏗️ Architecting **[Apna POS](https://github.com/saurav-sirsat/Apna-Pos)** – A modern multi-tenant SaaS for retail operations.
-- ⚡ Love optimizing performance, from **SQL queries** to **JVM tuning**.
-- 🧠 Deep diving into **System Design** and **Event-Driven Architectures (Kafka)**.
+I’m also diving deeper into **Distributed Systems**, **Event-Driven Architectures with Kafka**, and fine-tuning JVM performance.
 
 ---
 
-### 💻 Technical Arsenal
+### 💻 Stack
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">📂 <b>Languages</b></td>
-      <td align="center" width="200">⚙️ <b>Backend</b></td>
-      <td align="center" width="200">🌐 <b>Frontend</b></td>
-      <td align="center" width="200">🛠️ <b>DevOps & Ops</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,postgres,redis" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker,kafka,azure,git,postman" />
-      </td>
-    </tr>
-  </table>
-</div>
+- **Languages:** Java, Python, JavaScript, TypeScript, C++
+- **Frameworks & Core:** Spring Boot, Hibernate, Node.js, React
+- **Databases & Caching:** MySQL, PostgreSQL, Redis
+- **Infra & Tooling:** Docker, Kafka, Azure, Git, Postman
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 Activity
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=saurav-sirsat&theme=tokyonight&hide_border=true" />
-  <br/>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurav-sirsat&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
----
-
-### 🌟 Featured Project: Apna POS
-
-> **A Comprehensive Multi-tenant POS SaaS Platform**
-
-- ✅ **Scalable Architecture**: Built with Spring Boot & Multi-tenant Database patterns.
-- ✅ **Secure**: JWT-based authentication with granular RBAC.
-- ✅ **API First**: 60+ meticulously designed REST endpoints.
-- ✅ **Enterprise Ready**: Modular support for inventory, payments, and analytics.
-
----
-
-### 🐍 Contribution Journey
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/saurav-sirsat/saurav-sirsat/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
@@ -94,8 +42,4 @@ I am a **Backend-focused Software Engineer** dedicated to engineering high-perfo
 
 ---
 
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-  <br/>
-  <b>Let's build something extraordinary!</b>
-</div>
+*I believe the best code isn't just functional, but maintainable for the next person who reads it. Feel free to reach out if you want to talk about system design or Java backend patterns.*
