@@ -4,10 +4,9 @@
 -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJycGJ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3ImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/hp6G6V7YTheA6YV2/giphy.gif" width="120" />
   <h1>🚀 SAURAV SIRSAT 🚀</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=79D1FF&center=true&vCenter=true&width=600&lines=Backend+Architect;Java+%26+Spring+Boot+Expert;Scalable+SaaS+Builder;System+Design+Enthusiast" />
+
 
   <p align="center">
     <a href="https://www.linkedin.com/in/saurav-sirsat-136848227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -61,9 +60,7 @@ I am a **Backend-focused Software Engineer** dedicated to engineering high-perfo
 ### 📈 GitHub Analytics
 <div align="center">
 
-  <br/>
-  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-  <br/>
+
   <img width="100%" src="https://streak-stats.demolab.com/?user=saurav-sirsat&theme=tokyonight&hide_border=true" />
   <br/>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurav-sirsat&theme=tokyo-night&hide_border=true&area=true" />
