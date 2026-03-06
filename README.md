@@ -1,138 +1,108 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋 I'm Saurav Sirsat</h1>
+<!-- 
+  Modern Premium GitHub Profile README
+  Designed for Saurav Sirsat - Java Backend Developer
+-->
 
-<h3 align="center">
-Backend Developer • Java • Spring Boot • Scalable SaaS Systems
-</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Saurav%20Sirsat&fontSize=80&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3200&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Scalable+SaaS+Platforms;REST+API+Architecture;System+Design+Enthusiast"/>
-</p>
+  <br/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=saurav-sirsat&label=Profile%20Views&color=blue&style=flat" />
-</p>
+  <h3>🚀 Backend Architect | Java & Spring Boot Specialist | SaaS Builder</h3>
 
----
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=79D1FF&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Spring+Boot+Expert;Scalable+SaaS+Architect;System+Design+Enthusiast;Building+Next-Gen+Backends" />
 
-# 💫 About Me
-
-I am a **backend-focused software developer** passionate about building **scalable software systems and real-world SaaS products**.
-
-My primary stack revolves around **Java, Spring Boot, REST APIs, and SQL databases**, where I focus on designing **secure, maintainable, and production-ready backend architectures**.
-
-One of my major projects is **Apna POS**, a **multi-tenant POS SaaS platform** designed for retail businesses. The system focuses on scalable backend design, authentication, optimized APIs, and real operational workflows.
-
-I enjoy solving engineering challenges related to **performance, scalability, and backend architecture**, while continuously learning about **modern distributed systems and system design**.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/saurav-sirsat-136848227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:saurav.sirsat@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=saurav-sirsat&label=PROFILE%20VIEWS&color=79D1FF&style=for-the-badge" />
+  </p>
+</div>
 
 ---
 
-# 🚀 Current Work
+### 📖 About Me
 
-• Building and expanding the **Apna POS SaaS Platform**  
-• Designing scalable backend services using **Spring Boot**  
-• Improving **API architecture and database performance**  
-• Practicing **system design for large-scale applications**
+I am a **Backend-focused Software Engineer** dedicated to engineering high-performance, scalable systems. My expertise lies in designing robust **microservices architectures** and building **SaaS platforms** that solve real-world complexities.
 
----
-
-# 🤝 Open to Collaborate
-
-• Backend-heavy **open source projects**  
-• **Startup / SaaS platforms**  
-• **Java + Spring Boot applications**
+- 🛠️ Currently focusing on **Advanced Spring Security** & **Distributed Systems**.
+- 🏗️ Architecting **[Apna POS](https://github.com/saurav-sirsat/Apna-Pos)** – A modern multi-tenant SaaS for retail operations.
+- ⚡ Love optimizing performance, from **SQL queries** to **JVM tuning**.
+- 🧠 Deep diving into **System Design** and **Event-Driven Architectures (Kafka)**.
 
 ---
 
-# 🌱 Currently Learning
+### 💻 Technical Arsenal
 
-• Advanced **Spring Security**  
-• **Microservices Architecture**  
-• **Apache Kafka** event-driven systems  
-• **Cloud deployment with Azure**  
-• **Large-scale system design**
-
----
-
-# 💬 Ask Me About
-
-• Java Backend Development  
-• Spring Boot Architecture  
-• REST API Design  
-• JWT Authentication Systems  
-• SaaS Platform Architecture  
-• Backend System Design
-
----
-
-# ⚡ Fun Fact
-
-I enjoy building **real-world products rather than demo projects.**
-
-My **Apna POS SaaS platform already includes**
-
-• 60+ REST APIs  
-• JWT authentication  
-• Multi-tenant architecture  
-• Payment integration  
-• Scalable backend structure
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">📂 <b>Languages</b></td>
+      <td align="center" width="200">⚙️ <b>Backend</b></td>
+      <td align="center" width="200">🌐 <b>Frontend</b></td>
+      <td align="center" width="200">🛠️ <b>DevOps & Ops</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,postgres,redis" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker,kafka,azure,git,postman" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+### 📈 GitHub Analytics
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/saurav-sirsat-136848227">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:saurav.sirsat@outlook.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,postgres,redis,docker,kafka,azure,git,github,html,css,tailwind,postman,figma"/>
-
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurav-sirsat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-sirsat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=saurav-sirsat&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurav-sirsat&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+### 🌟 Featured Project: Apna POS
 
-<p align="center">
+> **A Comprehensive Multi-tenant POS SaaS Platform**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saurav-sirsat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-sirsat&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=saurav-sirsat&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurav-sirsat&theme=tokyo-night&hide_border=true"/>
-
-</p>
+- ✅ **Scalable Architecture**: Built with Spring Boot & Multi-tenant Database patterns.
+- ✅ **Secure**: JWT-based authentication with granular RBAC.
+- ✅ **API First**: 60+ meticulously designed REST endpoints.
+- ✅ **Enterprise Ready**: Modular support for inventory, payments, and analytics.
 
 ---
 
-# 🐍 Contribution Snake
+### 🐍 Contribution Journey
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/saurav-sirsat/saurav-sirsat/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saurav-sirsat/saurav-sirsat/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
 
 ---
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <br/>
+  <b>Let's build something extraordinary!</b>
+</div>
